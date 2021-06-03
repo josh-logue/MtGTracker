@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MtG Deck Tracker</string>
+    <string name="arch">Archidekt Deck Link</string>
+    <string name="cName">Card Name</string>
+    <string-array name="filters">
+        <item>No Filter</item>
+        <item>Creature</item>
+        <item>Sorcery</item>
+        <item>Instant</item>
+        <item>Enchantment</item>
+        <item>Artifact</item>
+        <item>Planeswalker</item>
+        <item>Land</item>
+    </string-array>
+</resources>
